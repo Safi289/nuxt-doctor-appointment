@@ -1,0 +1,239 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2236px;
+  position: relative;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 43px;
+  top: 0;
+  left: 0;
+  background-color: #8bc3e7;
+}
+
+.desktop .mask-group {
+  position: absolute;
+  width: 1440px;
+  height: 450px;
+  top: 229px;
+  left: 0;
+}
+
+.desktop .book-your-doctor {
+  position: absolute;
+  top: 81px;
+  left: 362px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #484848;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 565px;
+  height: 38px;
+  top: 160px;
+  left: 437px;
+  background-color: #dae5ee;
+  border-radius: 5px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 2px;
+  left: 17px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #7b7b7b;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .polygon {
+  position: absolute;
+  width: 16px;
+  height: 9px;
+  top: 16px;
+  left: 532px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 755px;
+  left: 402px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .lorem-ipsum-is {
+  position: absolute;
+  width: 1141px;
+  top: 839px;
+  left: 149px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 1141px;
+  top: 1040px;
+  left: 149px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 361px;
+  height: 358px;
+  top: 1203px;
+  left: 149px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 0.35px solid;
+  border-color: #000000;
+}
+
+.desktop .PCR-test-for-COVID {
+  position: absolute;
+  top: 304px;
+  left: 31px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .PCR-test-for-COVID-wrapper {
+  position: absolute;
+  width: 361px;
+  height: 358px;
+  top: 1592px;
+  left: 149px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 0.35px solid;
+  border-color: #000000;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 361px;
+  height: 358px;
+  top: 1203px;
+  left: 539px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 0.35px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 304px;
+  left: 84px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 361px;
+  height: 358px;
+  top: 1592px;
+  left: 539px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 0.35px solid;
+  border-color: #000000;
+}
+
+.desktop .flushot-high-dose-wrapper {
+  position: absolute;
+  width: 361px;
+  height: 358px;
+  top: 1203px;
+  left: 929px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 0.35px solid;
+  border-color: #000000;
+}
+
+.desktop .flushot-high-dose {
+  position: absolute;
+  top: 304px;
+  left: 90px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 361px;
+  height: 358px;
+  top: 1592px;
+  left: 929px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 0.35px solid;
+  border-color: #000000;
+}
+
+.label {
+  width: 270px;
+  height: 40px;
+}
+
+.label .privacy-policy-terms {
+  position: fixed;
+  width: 267px;
+  height: 15px;
+  top: 0;
+  left: 0;
+}
